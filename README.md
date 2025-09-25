@@ -16,7 +16,6 @@ Here I build small, reusable components to practice and understand the **core co
 
 ---
 
-
 ## 🎯 Goals
 - Practice writing **clean, structured React code**  
 - Understand **reusability** of components  
